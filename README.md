@@ -30,6 +30,16 @@ Decryption
 Recovered Plain Text
 ```
 
+## Project Structure
+
+```text
+Classical-Cryptanalysis-Tool
+├── code
+├── data
+├── README.md
+└── LICENSE
+```
+
 ## Technologies Used
 
 - C Programming
@@ -46,6 +56,15 @@ Recovered Plain Text
 - `plain_text.txt`
 - `encrypted_message.txt`
 - `substitution_mapping.txt`
+
+## Usage
+
+1. Create plaintext in `plain_text.txt`
+2. Run `substitution_cipher_encryptor.c`
+3. Analyze ciphertext using `frequency_analysis.c`
+4. Configure mappings in `substitution_mapping.txt`
+5. Run `substitution_cipher_decoder.c`
+6. Recover the original plaintext
 
 ## Contact
 
