@@ -1,0 +1,1 @@
+This is a sample message for testing the substitution cipher encryption and decryption workflow.
